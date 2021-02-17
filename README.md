@@ -4,7 +4,7 @@ Developing a Linux Shell
 **NOTE** What follows is the only the introduction to the problem statement.  
 **The full Project 2 description is [here](https://github.com/gk-3207-TU/F20_Project_2/blob/master/Project%202%20Developing%20a%20Linux%20Shell.pdf)**.   
 
-An **Introduction to Developing a Shells** for this project is found [here](https://github.com/gk-3207-TU/F20_Project_2/blob/master/3207%20Introduction%20to%20Developing%20a%20Linux%20Shell.pdf).  
+An **Introduction to Developing a Shells** for this project is found [here](https://github.com/gk-3207-TU/S21-Project-2/blob/main/3207%20Introduction%20to%20Developing%20a%20Linux%20Shell.pdf).  
 
 In this project, you’ll build a simple Unix/Linux shell. The shell is the heart of the command-line interface, and thus is central to the Linux/Unix/C programming environment. Mastering use of the shell is necessary to become proficient in this world; knowing how the shell itself is built is the focus of this project.  
 There are three specific objectives to this assignment:
